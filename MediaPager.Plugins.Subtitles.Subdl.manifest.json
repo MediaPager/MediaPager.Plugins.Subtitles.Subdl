@@ -2,7 +2,7 @@
   "id": "mediapager.subtitles.subdl",
   "name": "Subdl",
   "description": "Official Subdl provider for movie and TV subtitles.",
-  "author": "Nobugsgiven",
+  "author": "MediaPager",
   "types": "subtitles",
   "sdk": "MediaPager.App.PluginContracts",
   "sdkVersion": "0.1.0"

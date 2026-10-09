@@ -20,7 +20,7 @@ public sealed class SubdlProviderPlugin(IPluginSettingsStore settingsStore) :
         Id: SourceKey,
         Name: "Subdl",
         Version: "0.1.0",
-        Author: "Nobugsgiven",
+        Author: "MediaPager",
         Description: "Official Subdl provider for movie and TV subtitles.");
 
     public IReadOnlyList<PluginSettingDefinition> Settings { get; } =
